@@ -1,4 +1,4 @@
-# tree-sitter-plsql
+# tree-sitter-abap
 Oracle pl/sql grammar for tree-sitter
 
 As oracle database developer you very often switch between pl/sql and sql elements. This grammar try to support the (most used) language elements from both worlds.

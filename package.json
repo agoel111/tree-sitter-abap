@@ -1,15 +1,15 @@
 {
-  "name": "tree-sitter-plsql",
-  "version": "0.0.1",
-  "description": "Oracle plsql grammar for tree-sitter",
+  "name": "tree-sitter-abap",
+  "version": "0.20.0",
+  "description": "Oracle abap grammar for tree-sitter",
   "main": "bindings/node",
   "keywords": [
     "parser",
-    "plsql"
+    "abap"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AndreasMaierDe/tree-sitter-plsql"
+    "url": "https://github.com/agoel111/tree-sitter-abap"
   },
   "author": "Andreas Maier <andreas.maier.de@gmail.com>",
   "license": "MIT",

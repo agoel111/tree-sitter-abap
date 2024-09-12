@@ -1,10 +1,10 @@
 [package]
-name = "tree-sitter-plsql"
-description = "plsql grammar for the tree-sitter parsing library"
+name = "tree-sitter-abap"
+description = "abap grammar for the tree-sitter parsing library"
 version = "0.0.1"
-keywords = ["incremental", "parsing", "plsql"]
+keywords = ["incremental", "parsing", "abap"]
 categories = ["parsing", "text-editors"]
-repository = "https://github.com/tree-sitter/tree-sitter-plsql"
+repository = "https://github.com/tree-sitter/tree-sitter-abap"
 edition = "2018"
 license = "MIT"
 

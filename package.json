@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-abap",
-  "version": "1.0.0",
+  "version": "0.20.0",
   "description": "Tree Sitter ABAP",
   "main": "index.js",
   "types": "bindings/node",
